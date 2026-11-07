@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Emotions and the Immune System",
+    "section": "",
+    "text": "Can our emotional states influence our physical biology and immune function? Peer-reviewed clinical research has shown that negative emotional states—such as chronic depressive symptoms—are linked to dysregulated immune responses and chronic low-grade systemic inflammation (e.g., Wang et al., 2023, Journal of Affective Disorders)."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Emotions and the Immune System",
+    "section": "",
+    "text": "Can our emotional states influence our physical biology and immune function? Peer-reviewed clinical research has shown that negative emotional states—such as chronic depressive symptoms—are linked to dysregulated immune responses and chronic low-grade systemic inflammation (e.g., Wang et al., 2023, Journal of Affective Disorders)."
+  },
+  {
+    "objectID": "index.html#about-the-dataset",
+    "href": "index.html#about-the-dataset",
+    "title": "Emotions and the Immune System",
+    "section": "About the Dataset",
+    "text": "About the Dataset\nThis analysis uses publicly available data from the CDC National Health and Nutrition Examination Survey (NHANES):\n\nObservations: 4,864 adult respondents (exceeding the 1,000 observation minimum).\nKey Variables: 10 measurements including respondent ID (SEQN), age, gender, depression screener score (phq9_score), clinical severity category (depression_level), white blood cell count (wbc_count), neutrophil count (neutrophils), lymphocyte count (lymphocytes), platelet count (platelets), and systemic immune-inflammation index (sii).\nData Source: Reliable, open-access public health surveillance from the CDC.\nDataset URL: CDC NHANES 2017–2018 Data Portal."
+  },
+  {
+    "objectID": "index.html#visualizing-immune-inflammation-across-depression-levels",
+    "href": "index.html#visualizing-immune-inflammation-across-depression-levels",
+    "title": "Emotions and the Immune System",
+    "section": "Visualizing Immune Inflammation Across Depression Levels",
+    "text": "Visualizing Immune Inflammation Across Depression Levels\nThe Systemic Immune-Inflammation Index (SII) is calculated as: \\[\\text{SII} = \\frac{\\text{Platelets} \\times \\text{Neutrophils}}{\\text{Lymphocytes}}\\]\nElevated SII scores reflect heightened immune inflammation. Below, we compare median SII values across categories of depressive symptom severity assessed by the PHQ-9.\n\n\n\n\n\nMedian Systemic Immune-Inflammation Index (SII) by depression severity category."
+  },
+  {
+    "objectID": "index.html#key-takeaway",
+    "href": "index.html#key-takeaway",
+    "title": "Emotions and the Immune System",
+    "section": "Key Takeaway",
+    "text": "Key Takeaway\nAs depression severity increases from “None” to “Severe”, median SII rises from 428.2 to 475.0, illustrating the biological link between emotional distress and systemic immune activation documented in peer-reviewed literature."
+  }
+]
